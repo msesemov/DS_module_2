@@ -1,0 +1,7 @@
+sqlalchemy==2.0.44
+psycopg2-binary==2.9.11
+pandas==2.3.3
+matplotlib==3.10.7
+seaborn==0.13.2
+dotenv==0.9.9
+phik==0.12.5
